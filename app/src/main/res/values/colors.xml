@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#125688</color>
+    <color name="colorPrimaryDark">#125688</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="colorAccent">#118ce4</color>
+    <color name="colorActionBar">#FFFF0011</color>
+    <color name="Vulcan">#76526c</color>
+    <color name="NightRider">#303030</color>
+    <color name="tab_background_selected">#39a285</color>
+</resources>
